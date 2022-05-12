@@ -1,6 +1,6 @@
 .profile {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
 }
 
 .intro {
@@ -8,6 +8,7 @@
 }
 .fakeimg {
   height: 200px;
+  width: 450px;
   background: #aaa;
 }
 
@@ -23,4 +24,23 @@ body {
 
 h5 {
   margin-top: 25px;
+}
+#bottom-footer {
+  color: white;
+  margin-top: 2rem;
+  padding-top: 0.3rem;
+}
+li {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+.footerlink {
+  color: white;
+  font-weight: 400;
+  margin-left: 1rem;
+  list-style-type: square;
+}
+
+.footer {
+  height: 45px;
 }
